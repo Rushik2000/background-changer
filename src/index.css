@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ShreeDev';
+  src: url('/fonts/ShreeDev.ttf') format('truetype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-shree {
+  font-family: 'ShreeDev', sans-serif;
+}
